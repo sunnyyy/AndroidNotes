@@ -58,7 +58,7 @@
 
 - vectors = sharp, small, flexible
   - good for animations
-- [theme colors](https://developer.android.com/reference/android/graphics/drawable/VectorDrawable#applyTheme(android.content.res.Resources.Theme)
+- [theme colors](https://developer.android.com/reference/android/graphics/drawable/VectorDrawable#applyTheme\(android.content.res.Resources.Theme\))
   - ex: logo --> apply as tint at runtime; better than SVG
   - use colorPrimary to color certain parts of the vector image
 - [ColorStateList](https://developer.android.com/reference/android/content/res/ColorStateList)
